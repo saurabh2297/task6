@@ -1,0 +1,45 @@
+html, body {
+  height: 100%;
+  margin: 0px;
+}
+
+h1{
+  color: yellow;
+  position: fixed;
+  top:0;
+  width: 100%;
+  text-align:center;
+  background-color: gray;
+  opacity: 50%;
+  font-family:Palatino Linotype;
+}
+.parallax { 
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .p1{
+    font-weight: bold;
+    color: brown;
+    font-family:Lucida Console;
+    padding-top: 10%;
+    width:40%;
+    text-align: justify;
+  }
+
+  .p2{
+    font-weight: bold;
+    float: right;
+    color: yellowgreen;
+    font-family:Lucida Console;
+    padding-top:5%;
+    width:40%;
+    text-align: justify;
+  }
+  h3{
+    padding-top:7%;
+    font-family:Palatino Linotype;
+    color: palevioletred;
+  }
